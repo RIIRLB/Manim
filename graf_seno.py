@@ -1,3 +1,5 @@
+# de Manim Examples
+# https://docs.manim.community/en/stable/examples.html
 from manim import *
 
 class SineCurveUnitCircle(Scene):
