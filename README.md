@@ -2,7 +2,7 @@
 
 Algunas cosas extras de Manim
 
-##### Figuras 2D en Manim ######
+##### ----- Figuras 2D en Manim ----- ######
 
 Estas son las clases más comunes de formas bidimensionales que puedes crear directamente en Manim:
 
@@ -50,7 +50,7 @@ VMobject() → Base para crear formas personalizadas (dibujando con puntos)
 
 
 
-##### Transformaciones de Manim #####
+##### ----- Transformaciones de Manim ----- #####
 
 Transform(obj1, obj2) → cambia una figura en otra.
 
@@ -62,7 +62,7 @@ Rotate, Scale, Shift, Stretch → deformaciones geométricas.
 
 
 
-##### Colores en Manim (algunos) #####
+##### ----- Colores en Manim (algunos) ----- #####
 
 WHITE
 
