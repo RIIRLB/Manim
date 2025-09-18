@@ -11,3 +11,10 @@ class circulos(Scene):
         
         grupo_circ = Group(circ_1, circ_2,circ_3).arrange(buff=1)
         self.add(grupo_circ)
+# contribucion de Mates Mike
+#        self.play(Create(circ_1))
+#        self.wait(1)
+#        self.play(Transform(circ_1, circ_2))
+#        self.wait(1)
+#        self.play(Transform(circ_1, circ_3))
+#        self.wait(2)
